@@ -53,7 +53,7 @@ char getch(){
 }
  
 void menuController(){
-	system("clear");
+	system("clear");			//If running in Windows OS, substitute "clear" with "cls".
 	printf("Welcome to Simple Quiz Game\n");
 	printf("\nYour Options\n");
 	printf("============");
@@ -89,7 +89,7 @@ void GenerateRandom(){
 }
 void Quiz(char* path,int ID){
 
-	system("clear");
+	system("clear");			//If running in Windows OS, substitute "clear" with "cls".
 	Question question;
 	FILE *fp;
 	    fp = fopen (path,"r");
@@ -159,7 +159,7 @@ void Quiz(char* path,int ID){
 	    
 }
 void RunQuiz(){
-	system("clear");
+	system("clear");			//If running in Windows OS, substitute "clear" with "cls".
 	
 	int i,TotalMarks=0;
 	int number=-1,j;
