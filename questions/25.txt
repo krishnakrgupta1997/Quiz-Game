@@ -1,0 +1,8 @@
+The highest average salinity amongst the following seas is reported from
+A.Dead Sea
+B.Red Sea
+C.Black Sea
+D.Mediterranean Sea
+cat3
+A
+25

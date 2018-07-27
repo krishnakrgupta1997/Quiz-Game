@@ -1,0 +1,8 @@
+What is the capital city of Australia ?
+A.Canberra
+B.Melbourne
+C.Sydney
+D.Adelaide
+cat3
+A
+24
